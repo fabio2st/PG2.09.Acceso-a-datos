@@ -1,0 +1,14 @@
+D:\Documentos\normal10\Seminario\2015\code\09 Acceso a datos\DataAccess\ConexionForm\bin\Debug\ConexionForm.exe.config
+D:\Documentos\normal10\Seminario\2015\code\09 Acceso a datos\DataAccess\ConexionForm\bin\Debug\ConexionForm.exe
+D:\Documentos\normal10\Seminario\2015\code\09 Acceso a datos\DataAccess\ConexionForm\bin\Debug\ConexionForm.pdb
+D:\Documentos\normal10\Seminario\2015\code\09 Acceso a datos\DataAccess\ConexionForm\bin\Debug\ConexionForm.xml
+D:\Documentos\normal10\Seminario\2015\code\09 Acceso a datos\DataAccess\ConexionForm\obj\Debug\ConexionForm.EditSecuencial.resources
+D:\Documentos\normal10\Seminario\2015\code\09 Acceso a datos\DataAccess\ConexionForm\obj\Debug\ConexionForm.Resources.resources
+D:\Documentos\normal10\Seminario\2015\code\09 Acceso a datos\DataAccess\ConexionForm\obj\Debug\ConexionForm.vbproj.GenerateResource.Cache
+D:\Documentos\normal10\Seminario\2015\code\09 Acceso a datos\DataAccess\ConexionForm\obj\Debug\ConexionForm.exe
+D:\Documentos\normal10\Seminario\2015\code\09 Acceso a datos\DataAccess\ConexionForm\obj\Debug\ConexionForm.xml
+D:\Documentos\normal10\Seminario\2015\code\09 Acceso a datos\DataAccess\ConexionForm\obj\Debug\ConexionForm.pdb
+D:\Documents\Normal 10\Seminario\2015\code\09 Acceso a datos\DataAccess\ConexionForm\bin\Debug\ConexionForm.exe.config
+D:\Documents\Normal 10\Seminario\2015\code\09 Acceso a datos\DataAccess\ConexionForm\obj\Debug\ConexionForm.exe
+D:\Documents\Normal 10\Seminario\2015\code\09 Acceso a datos\DataAccess\ConexionForm\obj\Debug\ConexionForm.xml
+D:\Documents\Normal 10\Seminario\2015\code\09 Acceso a datos\DataAccess\ConexionForm\obj\Debug\ConexionForm.pdb
